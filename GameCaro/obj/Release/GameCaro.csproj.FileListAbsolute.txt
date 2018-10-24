@@ -1,0 +1,11 @@
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\bin\Release\GameCaro.exe.config
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\bin\Release\GameCaro.exe
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\bin\Release\GameCaro.pdb
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.Form1.resources
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.LAN.resources
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.MenuGame.resources
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.Properties.Resources.resources
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.About.resources
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.exe
+C:\Users\pc\Downloads\Documents\Visual Studio 2015\Projects\GameCaro\GameCaro\obj\Release\GameCaro.pdb
